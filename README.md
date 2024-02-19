@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=mugpeng)
+
+<div align="left">
+<img alt="Anurag&#39;s GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mugpeng&amp&hide=contribs,prs;show_icons=true" height="157px" weight="200px"/>
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugpeng&amp;layout=compact" height="157px"/>
+</div>
+
 <!--
 **mugpeng/mugpeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
