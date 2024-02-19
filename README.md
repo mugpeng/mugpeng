@@ -3,8 +3,8 @@
 ![](https://komarev.com/ghpvc/?username=mugpeng)
 
 <div align="left">
-<img alt="Anurag&#39;s GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mugpeng&amp&hide=contribs,prs;show_icons=true" height="157px" weight="200px"/>
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugpeng&amp;layout=compact" height="157px"/>
+<img alt="Anurag&#39;s GitHub stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mugpeng" height="157px" weight="200px"/>
+<img alt="Top Langs" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mugpeng&amp;layout=compact" height="157px"/>
 </div>
 
 <!--
