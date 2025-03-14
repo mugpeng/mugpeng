@@ -12,6 +12,10 @@
 <img alt="Top Langs2" src="https://github-readme-stats.vercel.app/api?username=mugpeng" height="157px"/>
 </div>
 
+![footer](https://github.com/user-attachments/assets/bef8019f-5693-4e3c-aed9-9654c20a5dd8)
+
+<details>
+  
 ### 🖥️ Open-Source Projects
 <table style="width:800px">
 <tr><th>Knowledge Base</th></tr>
@@ -56,9 +60,6 @@
 | [Example_LipMs](https://github.com/mugpeng/Example_LipMs) | <img alt="Stars" src="https://img.shields.io/github/stars/mugpeng/Example_LipMs?style=flat-square&labelColor=black"/> | | |
 
 </td></tr> </table>
-
-
-![footer](https://github.com/user-attachments/assets/bef8019f-5693-4e3c-aed9-9654c20a5dd8)
 
 <!--
 **mugpeng/mugpeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
