@@ -18,13 +18,13 @@
 <tr><td>
 
 
-|Title | Stars | Publications|
-|--|--|--|
-| [UCSCXenaShiny](https://github.com/openbiox/UCSCXenaShiny) | <img alt="Stars" src="https://img.shields.io/github/stars/openbiox/UCSCXenaShiny?style=flat-square&labelColor=black"/> | [![HGNPub](https://img.shields.io/badge/Published-black?style=flat-square&logo=googlescholar)](https://www.nature.com/articles/s42003-024-06891-2) |
-| [DROMA_DB](https://github.com/mugpeng/DROMA_DB) | <img alt="Stars" src="https://img.shields.io/github/stars/mugpeng/DROMA_DB?style=flat-square&labelColor=black"/> |
-| [LLM_arsenal](https://github.com/Webioinfo01/LLM_arsenal) | <img alt="Stars" src="https://img.shields.io/github/stars/Webioinfo01/LLM_arsenal?style=flat-square&labelColor=black"/> |
-| [DeepChecker](https://github.com/mugpeng/DeepChecker) | <img alt="Stars" src="https://img.shields.io/github/stars/mugpeng/DeepChecker?style=flat-square&labelColor=black"/> |
-| [zotlink](https://github.com/mugpeng/zotlink) | <img alt="Stars" src="https://img.shields.io/github/stars/mugpeng/zotlink?style=flat-square&labelColor=black"/> |
+|Title | Description | Stars | Publications|
+|--|--|--|--|
+| [UCSCXenaShiny](https://github.com/openbiox/UCSCXenaShiny) | An R package for interactively exploring UCSC Xena | <img alt="Stars" src="https://img.shields.io/github/stars/openbiox/UCSCXenaShiny?style=flat-square&labelColor=black"/> | [![HGNPub](https://img.shields.io/badge/Published-black?style=flat-square&logo=googlescholar)](https://www.nature.com/articles/s42003-024-06891-2) |
+| [DROMA_DB](https://github.com/mugpeng/DROMA_DB) | database for Drug Response Omics association MAp(DROMA) | <img alt="Stars" src="https://img.shields.io/github/stars/mugpeng/DROMA_DB?style=flat-square&labelColor=black"/> |
+| [LLM_arsenal](https://github.com/Webioinfo01/LLM_arsenal) | LLM all knowledge | <img alt="Stars" src="https://img.shields.io/github/stars/Webioinfo01/LLM_arsenal?style=flat-square&labelColor=black"/> |
+| [DeepChecker](https://github.com/mugpeng/DeepChecker) | Fast and accurate image duplication detection | <img alt="Stars" src="https://img.shields.io/github/stars/mugpeng/DeepChecker?style=flat-square&labelColor=black"/> |
+| [zotlink](https://github.com/mugpeng/zotlink) | Supplementary management for Zotero in cooperation with ZotFile for zotero6 | <img alt="Stars" src="https://img.shields.io/github/stars/mugpeng/zotlink?style=flat-square&labelColor=black"/> |
 | [UMseqflow](https://github.com/mugpeng/UMseqflow) | <img alt="Stars" src="https://img.shields.io/github/stars/mugpeng/UMseqflow?style=flat-square&labelColor=black"/> |
 | [Yao-J_Hepatol-Reproduce-Code](https://github.com/mugpeng/Yao-J_Hepatol-Reproduce-Code) | <img alt="Stars" src="https://img.shields.io/github/stars/mugpeng/Yao-J_Hepatol-Reproduce-Code?style=flat-square&labelColor=black"/> | 
 | [Network-pharmacology-simple-tutorial](https://github.com/mugpeng/Network-pharmacology-simple-tutorial) | <img alt="Stars" src="https://img.shields.io/github/stars/mugpeng/Network-pharmacology-simple-tutorial?style=flat-square&labelColor=black"/> |
