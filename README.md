@@ -22,7 +22,7 @@
 | [LLM_arsenal](https://github.com/Webioinfo01/LLM_arsenal) | <img alt="Stars" src="https://img.shields.io/github/stars/Webioinfo01/LLM_arsenal?style=flat-square&labelColor=black"/> | | LLM all knowledge |
 </td></tr> </table>
 
-<table style="width:100%">
+<table style="width:800px">
 <tr><th>Omics and Pharmacogenomics</th></tr>
 <tr><td>
 
