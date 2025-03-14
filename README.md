@@ -21,9 +21,9 @@
 |Title | Stars | Publications| Description |
 |--|--|--|--|
 | [UCSCXenaShiny](https://github.com/openbiox/UCSCXenaShiny) | <img alt="Stars" src="https://img.shields.io/github/stars/openbiox/UCSCXenaShiny?style=flat-square&labelColor=black"/> | [![HGNPub](https://img.shields.io/badge/Published-black?style=flat-square&logo=googlescholar)](https://www.nature.com/articles/s42003-024-06891-2) | An R package for interactively exploring UCSC Xena |
-| [DROMA_DB](https://github.com/mugpeng/DROMA_DB) | <img alt="Stars" src="https://img.shields.io/github/stars/mugpeng/DROMA_DB?style=flat-square&labelColor=black"/> | database for Drug Response Omics association MAp(DROMA) | 
-| [LLM_arsenal](https://github.com/Webioinfo01/LLM_arsenal) | <img alt="Stars" src="https://img.shields.io/github/stars/Webioinfo01/LLM_arsenal?style=flat-square&labelColor=black"/> | LLM all knowledge |
-| [DeepChecker](https://github.com/mugpeng/DeepChecker) | <img alt="Stars" src="https://img.shields.io/github/stars/mugpeng/DeepChecker?style=flat-square&labelColor=black"/> | Fast and accurate image duplication detection |
+| [DROMA_DB](https://github.com/mugpeng/DROMA_DB) | <img alt="Stars" src="https://img.shields.io/github/stars/mugpeng/DROMA_DB?style=flat-square&labelColor=black"/> | | database for Drug Response Omics association MAp(DROMA) | 
+| [LLM_arsenal](https://github.com/Webioinfo01/LLM_arsenal) | <img alt="Stars" src="https://img.shields.io/github/stars/Webioinfo01/LLM_arsenal?style=flat-square&labelColor=black"/> | | LLM all knowledge |
+| [DeepChecker](https://github.com/mugpeng/DeepChecker) | <img alt="Stars" src="https://img.shields.io/github/stars/mugpeng/DeepChecker?style=flat-square&labelColor=black"/> | | Fast and accurate image duplication detection |
 | [zotlink](https://github.com/mugpeng/zotlink) | <img alt="Stars" src="https://img.shields.io/github/stars/mugpeng/zotlink?style=flat-square&labelColor=black"/> | Supplementary management for Zotero in cooperation with ZotFile for zotero6 |
 | [UMseqflow](https://github.com/mugpeng/UMseqflow) | <img alt="Stars" src="https://img.shields.io/github/stars/mugpeng/UMseqflow?style=flat-square&labelColor=black"/> | |
 | [Yao-J_Hepatol-Reproduce-Code](https://github.com/mugpeng/Yao-J_Hepatol-Reproduce-Code) | <img alt="Stars" src="https://img.shields.io/github/stars/mugpeng/Yao-J_Hepatol-Reproduce-Code?style=flat-square&labelColor=black"/> | |
