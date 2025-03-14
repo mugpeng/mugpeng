@@ -13,7 +13,7 @@
 </div>
 
 ### 🖥️ Open-Source Projects
-<table style="width:100%">
+<table style="width:800px">
 <tr><th>Knowledge Base</th></tr>
 <tr><td>
 
