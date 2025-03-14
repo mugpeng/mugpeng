@@ -24,11 +24,11 @@
 | [DROMA_DB](https://github.com/mugpeng/DROMA_DB) | <img alt="Stars" src="https://img.shields.io/github/stars/mugpeng/DROMA_DB?style=flat-square&labelColor=black"/> | | database for Drug Response Omics association MAp(DROMA) | 
 | [LLM_arsenal](https://github.com/Webioinfo01/LLM_arsenal) | <img alt="Stars" src="https://img.shields.io/github/stars/Webioinfo01/LLM_arsenal?style=flat-square&labelColor=black"/> | | LLM all knowledge |
 | [DeepChecker](https://github.com/mugpeng/DeepChecker) | <img alt="Stars" src="https://img.shields.io/github/stars/mugpeng/DeepChecker?style=flat-square&labelColor=black"/> | | Fast and accurate image duplication detection |
-| [zotlink](https://github.com/mugpeng/zotlink) | <img alt="Stars" src="https://img.shields.io/github/stars/mugpeng/zotlink?style=flat-square&labelColor=black"/> | Supplementary management for Zotero in cooperation with ZotFile for zotero6 |
-| [UMseqflow](https://github.com/mugpeng/UMseqflow) | <img alt="Stars" src="https://img.shields.io/github/stars/mugpeng/UMseqflow?style=flat-square&labelColor=black"/> | |
+| [zotlink](https://github.com/mugpeng/zotlink) | <img alt="Stars" src="https://img.shields.io/github/stars/mugpeng/zotlink?style=flat-square&labelColor=black"/> | | Supplementary management for Zotero in cooperation with ZotFile for zotero6 |
+| [UMseqflow](https://github.com/mugpeng/UMseqflow) | <img alt="Stars" src="https://img.shields.io/github/stars/mugpeng/UMseqflow?style=flat-square&labelColor=black"/> | | |
 | [Yao-J_Hepatol-Reproduce-Code](https://github.com/mugpeng/Yao-J_Hepatol-Reproduce-Code) | <img alt="Stars" src="https://img.shields.io/github/stars/mugpeng/Yao-J_Hepatol-Reproduce-Code?style=flat-square&labelColor=black"/> | |
-| [Network-pharmacology-simple-tutorial](https://github.com/mugpeng/Network-pharmacology-simple-tutorial) | <img alt="Stars" src="https://img.shields.io/github/stars/mugpeng/Network-pharmacology-simple-tutorial?style=flat-square&labelColor=black"/> | |
-| [Example_LipMs](https://github.com/mugpeng/Example_LipMs) | <img alt="Stars" src="https://img.shields.io/github/stars/mugpeng/Example_LipMs?style=flat-square&labelColor=black"/> | |
+| [Network-pharmacology-simple-tutorial](https://github.com/mugpeng/Network-pharmacology-simple-tutorial) | <img alt="Stars" src="https://img.shields.io/github/stars/mugpeng/Network-pharmacology-simple-tutorial?style=flat-square&labelColor=black"/> | | |
+| [Example_LipMs](https://github.com/mugpeng/Example_LipMs) | <img alt="Stars" src="https://img.shields.io/github/stars/mugpeng/Example_LipMs?style=flat-square&labelColor=black"/> | | |
 
 </td></tr> </table>
 
