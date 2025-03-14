@@ -33,7 +33,7 @@
 
 </td></tr> </table>
 
-<table style="width:100%">
+<table style="width:800px">
 <tr><th>Softwares</th></tr>
 <tr><td>
 
@@ -45,7 +45,7 @@
 
 </td></tr> </table>
 
-<table style="width:100%">
+<table style="width:800px">
 <tr><th>Analysis pipelines</th></tr>
 <tr><td>
 
