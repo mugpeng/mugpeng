@@ -23,9 +23,9 @@
 		<tr>
 		<td align="center">
 		    <picture>
-		    <source media="(prefers-color-scheme: dark)"  srcset="https://cdn.jsdelivr.net/gh/Nuyoahwjl/Nuyoahwjl/profile-3d-contrib/profile-night-green.svg?clear=1" />
-		    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Nuyoahwjl/Nuyoahwjl/profile-3d-contrib/profile-green-animate.svg?clear=1" />
-		    <img alt="github profile contributions chart" src="https://cdn.jsdelivr.net/gh/Nuyoahwjl/Nuyoahwjl/profile-3d-contrib/profile-green-animate.svg?clear=1" width="80%" />
+		    <source media="(prefers-color-scheme: dark)"  srcset="https://cdn.jsdelivr.net/gh/mugpeng/mugpeng/profile-3d-contrib/profile-night-green.svg?clear=1" />
+		    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/mugpeng/mugpeng/profile-3d-contrib/profile-green-animate.svg?clear=1" />
+		    <img alt="github profile contributions chart" src="https://cdn.jsdelivr.net/gh/mugpeng/mugpeng/profile-3d-contrib/profile-green-animate.svg?clear=1" width="80%" />
 		    </picture>
 		</td>
 		</tr>
