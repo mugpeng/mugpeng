@@ -2,6 +2,13 @@
 
 ![](https://komarev.com/ghpvc/?username=mugpeng)
 
+<p align="center">
+	<a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      	<img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=mugpeng&theme=merko&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" width="1000" alt="TROPHY" />
+   	</a>
+</p>
+
+
 * I am currently doing my PhD in the Deng Lab at University of Macau 🇲🇴
 * I am a bioinformatics student who works on pharmacogenomics and multiagent based on large language model 🤖
 * I am interested in developing useful tools and interesting projects 🤔
@@ -10,12 +17,6 @@
 <img alt="Anurag&#39;s GitHub stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mugpeng" height="157px" weight="200px"/>
 <img alt="Top Langs" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mugpeng&amp;layout=compact" height="157px"/>
 </div>
-
-<p align="center">
-	<a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      	<img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=mugpeng&theme=merko&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" width="1000" alt="TROPHY" />
-   	</a>
-</p>
 
 ![footer](https://github.com/user-attachments/assets/bef8019f-5693-4e3c-aed9-9654c20a5dd8)
 
