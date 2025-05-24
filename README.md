@@ -12,6 +12,26 @@
 <img alt="Top Langs2" src="https://github-readme-stats.vercel.app/api?username=mugpeng" height="157px"/>
 </div>
 
+<p align="center">
+	<a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      	<img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=mugpeng&theme=merko&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" width="1000" alt="TROPHY" />
+   	</a>
+</p>
+
+<p align="center">
+	<table>
+		<tr>
+		<td align="center">
+		    <picture>
+		    <source media="(prefers-color-scheme: dark)"  srcset="https://cdn.jsdelivr.net/gh/Nuyoahwjl/Nuyoahwjl/profile-3d-contrib/profile-night-green.svg?clear=1" />
+		    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Nuyoahwjl/Nuyoahwjl/profile-3d-contrib/profile-green-animate.svg?clear=1" />
+		    <img alt="github profile contributions chart" src="https://cdn.jsdelivr.net/gh/Nuyoahwjl/Nuyoahwjl/profile-3d-contrib/profile-green-animate.svg?clear=1" width="80%" />
+		    </picture>
+		</td>
+		</tr>
+	</table>
+</p>
+
 ![footer](https://github.com/user-attachments/assets/bef8019f-5693-4e3c-aed9-9654c20a5dd8)
 
 <details>
